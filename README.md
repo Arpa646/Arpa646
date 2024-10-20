@@ -23,7 +23,7 @@
 
 
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **FriendKit Its a social platform like facebook**
  
