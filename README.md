@@ -18,21 +18,38 @@
 <h1 align="center">Hi 👋, I'm Arpa Akter</h1>
 <h3 align="center">A passionate full stack webdeveloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpa646&label=Profile%20views&color=0e75b6&style=flat" alt="arpa646" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpa646" alt="arpa646" /></a> </p>
 
-- 🔭 I’m currently working on **FriendKit**
 
-- 🌱 I’m currently learning **SQL,React Nativ**
 
-- 👨‍💻 All of my projects are available at [https://spectacular-seahorse-ed8247.netlify.app/](https://spectacular-seahorse-ed8247.netlify.app/)
 
-- 💬 Ask me about **MERN stack**
+<div align="center">
+ 
+ 🔭 I’m currently working on **FriendKit Its a social platform like facebook**
+ 
+ 🌱 I’m currently learning **SQL, React Native, AWS**
+ 
+📫 How to reach me **arpakhan114@gmail.com**
 
-- 📫 How to reach me **arpakhan114@gmail.com**
+ 👨‍💻 All of my projects are available at [https://spectacular-seahorse-ed8247.netlify.app/](https://spectacular-seahorse-ed8247.netlify.app/)
+ 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hxb91UNto43uH0yQoDuZuaKU9ENf6JH7/view](https://drive.google.com/file/d/1Hxb91UNto43uH0yQoDuZuaKU9ENf6JH7/view)
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ 📄 Know about my experiences [https://drive.google.com/file/d/1Hxb91UNto43uH0yQoDuZuaKU9ENf6JH7/view](https://drive.google.com/file/d/1Hxb91UNto43uH0yQoDuZuaKU9ENf6JH7/view)
+ </div>
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center" style="padding: 20px;">
