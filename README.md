@@ -34,20 +34,22 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Hxb91UNto43uH0yQoDuZuaKU9ENf6JH7/view](https://drive.google.com/file/d/1Hxb91UNto43uH0yQoDuZuaKU9ENf6JH7/view)
 
-## :computer: Reach with me
-
-<p align="center">
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/facebook.png" alt="Facebook" width="40" height="40">
-  </a>
-  <a href="https://www.twitter.com/yourprofile" target="_blank">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/twitter.png" alt="Twitter" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/linkedin.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/instagram.png" alt="Instagram" width="40" height="40">
+<h2 align="center">📫 Reach me on</h2>
+<p align="center" style="padding: 20px;">
+  <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/ileriayooo">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
