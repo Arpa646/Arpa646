@@ -42,22 +42,23 @@
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center" style="padding: 20px;">
-  <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/">
+  <a target="_blank" href="https://www.linkedin.com/in/arpa-khan-5b456b240/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/ileriayooo">
+  <a target="_blank" href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <a href="mailto:arpakhan114@gmail.com?subject=Hello%20Arpa,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.facebook.com/yourprofile">
+  <a target="_blank" href="https://web.facebook.com/profile.php?id=100075611266365">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/yourprofile">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 
 
