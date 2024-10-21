@@ -43,6 +43,10 @@
  
 📫 How to reach me **arpakhan114@gmail.com**
 
+📫  **I enjoy to learn new technology & make new projects**
+
+📫 Graduated In CSE from **Northern Univarsity Of Business & Technology Khulna**
+
  👨‍💻 All of my projects are available at [https://spectacular-seahorse-ed8247.netlify.app/](https://spectacular-seahorse-ed8247.netlify.app/)
  
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
