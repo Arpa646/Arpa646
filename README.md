@@ -75,7 +75,7 @@
 <br>
 <div align=center>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpa646&show_icons=true&locale=en&layout=compact&theme=radical" alt="arpa646" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpa646&show_icons=true&locale=en&layout=compact&theme=radical" alt="arpa646" />
 </p>
 
 <p>&nbsp;
