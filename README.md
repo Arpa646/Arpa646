@@ -1,9 +1,28 @@
 
-![Description of Image](https://github.com/Arpa646/Arpa646/blob/main/wp8903914.jpg)
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: linear-gradient(to bottom, #000000, #434343); margin-left: 20px;">
+    <img src="https://github.com/Arpa646/Arpa646/blob/main/wp8903914.jpg" alt="Description of Image" width="800px" />
+</div>
 
 
 
@@ -59,6 +78,7 @@
   </a>
 </p>
 
+<p>I specialize in full-stack web development with a focus on building dynamic and user-friendly applications. My key areas of expertise include <strong>Node.js</strong>, <strong>React</strong>, and <strong>Firebase</strong>, along with hands-on experience in creating social platforms like <strong>FriendKit</strong>. I am continuously learning and expanding my skillset with technologies such as <strong>SQL</strong>, <strong>React Native</strong>, and <strong>AWS</strong>, and I am passionate about delivering scalable and responsive solutions for the web.</p>
 
 
 
