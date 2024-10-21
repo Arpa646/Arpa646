@@ -74,17 +74,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=arpa646&show_icons=true&locale=en&layout=compact" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=arpa646&show_icons=true&locale=en" alt="top langs" />
-  <img width=325 align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpa646&" alt="top langs" />
-  <br/>
-
-</div>
-
-<br/><br/>
-
-<hr/>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpa646&show_icons=true&locale=en&layout=compact&theme=radical" alt="arpa646" />
 </p>
@@ -96,5 +85,14 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpa646&theme=radical" alt="arpa646" />
 </p>
+  <br/>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+
 
 
