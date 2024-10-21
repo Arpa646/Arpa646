@@ -85,9 +85,16 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpa646&show_icons=true&locale=en&layout=compact" alt="arpa646" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpa646&show_icons=true&locale=en&layout=compact&theme=radical" alt="arpa646" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpa646&show_icons=true&locale=en" alt="arpa646" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpa646&show_icons=true&locale=en&theme=radical" alt="arpa646" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpa646&" alt="arpa646" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpa646&theme=radical" alt="arpa646" />
+</p>
+
 
