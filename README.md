@@ -20,8 +20,8 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 60vh; background: linear-gradient(to bottom, #000000, #434343); margin-left: 20px;">
-    <img src="https://i.ibb.co.com/2dgwLS0/DALL-E-2024-11-12-18-09-23-A-cozy-digital-illustration-of-a-female-full-stack-software-engineer-work.webp" alt="Description of Image" width="800px" />
+<div style="display: flex; justify-content: center; align-items: center; height: 50vh; background: linear-gradient(to bottom, #000000, #434343); margin-left: 20px;">
+    <img src="https://i.ibb.co.com/2dgwLS0/DALL-E-2024-11-12-18-09-23-A-cozy-digital-illustration-of-a-female-full-stack-software-engineer-work.webp" alt="Description of Image" width="400px" />
 </div>
 
 
